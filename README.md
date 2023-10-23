@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Samuel Kariuki</h1>
 
-![HTML](https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10.12-blue?style=flat-square&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-306998?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-4EAF57?style=flat-square&logo=alembic&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-View%20Collection-blue?logo=postman)
+### Skills and Technologies
+
+- Front-end:
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+- Back-end:
+  ![Python](https://img.shields.io/badge/Python-3.10.12-blue?style=for-the-badge&logo=python&logoColor=white)
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-306998?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+  ![Alembic](https://img.shields.io/badge/Alembic-4EAF57?style=for-the-badge&logo=alembic&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+- Tools:
+  ![Postman](https://img.shields.io/badge/Postman-blue?style=for-the-badge&logo=postman)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 <h3 align="center">An ardent and dedicated Full Stack Developer hailing from the vibrant city of Nairobi, Kenya, where the art of web development is crafted with passion and precision.</h3>
 
