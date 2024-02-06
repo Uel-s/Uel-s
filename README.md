@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Kariuki</h1>
+<h1 align="center">Hi 👋, I'm Sam Kay</h1>
 
 ### Skills and Technologies
 
